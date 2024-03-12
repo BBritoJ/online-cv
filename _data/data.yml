@@ -84,7 +84,7 @@ certifications:
           end: 2027
           organization: Google
           credentialid: 133152
-          credentialurl: https://google.accredible.com/55a642dd-f907-4e09-aa2a-2d30c0373636
+          credentialurl: google.accredible.com/55a642dd-f907-4e09-aa2a-2d30c0373636
           credentialname: Google Cloud Associate Cloud Engineer
           details: |
             Um Engenheiro Cloud Associado implanta aplicações, monitora operações e gerencia soluções empresariais. É capaz de usar o Google Cloud Console e a interface de linha de comando para realizar tarefas para manter uma ou mais soluções implantadas no ambiente do google cloud.
